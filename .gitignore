@@ -1,2 +1,4 @@
 .env
 __pycache__/constants.cpython-311.pyc
+*.pyc
+.DS_Store
